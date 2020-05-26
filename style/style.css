@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'Gelion';
+  src: url('/asset/Gelion/Gelion-Medium.ttf');
+}
+body {
+  font-family: Gelion;
+  margin: 0;
+}
+header {
+  position: relative;
+}
+header img {
+  position: absolute;
+  top: 20px;
+  left: 100px;
+  width: 190px;
+  height: 65px;
+}
+header ul {
+  margin: 0;
+  list-style-type: none;
+  width: 500px;
+}
+header li {
+  display: inline;
+  padding: 0 20px 0 20px;
+}
+header a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #035755;
+}
+header a:hover {
+  color: #fa5652;
+}
+header nav {
+  margin: 0;
+  display: inline-block;
+  width: 600px;
+  height: 20px;
+  position: absolute;
+  right: 140px;
+  top: 40px;
+}
+header .bottom_A {
+  background-color: transparent;
+  border-top-left-radius: 28px;
+  border-top-right-radius: 28px;
+  border-bottom-right-radius: 28px;
+  border-bottom-left-radius: 28px;
+  border: 2px solid #fa5652;
+  color: #fa5652;
+  height: 45px;
+  line-height: 40px;
+  width: 130px;
+  text-decoration: none;
+  text-align: center;
+  font-family: Gelion;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  position: absolute;
+  right: 80px;
+  top: 30px;
+}
