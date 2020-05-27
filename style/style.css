@@ -23,6 +23,7 @@ header img {
   margin-left: 238px;
   width: 190px;
   height: 65px;
+  cursor: pointer;
 }
 header ul {
   margin: 0;
