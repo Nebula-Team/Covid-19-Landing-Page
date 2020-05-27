@@ -1,6 +1,14 @@
 @font-face {
-  font-family: 'Gelion';
-  src: url('/asset/Gelion/Gelion-Medium.ttf');
+  font-family: 'Bold';
+  src: url(/asset/font/Gelion-Bold.ttf);
+}
+@font-face {
+  font-family: 'Medium';
+  src: url(/asset/font/Gelion-Medium.ttf);
+}
+@font-face {
+  font-family: 'Regular';
+  src: url(/asset/font/Gelion-Regular.ttf);
 }
 body {
   font-family: Gelion;
