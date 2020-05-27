@@ -43,6 +43,7 @@ header a {
 }
 header a:hover {
   color: #fa5652;
+  cursor: pointer;
 }
 header nav {
   margin: 0;
