@@ -65,3 +65,10 @@ header .button_A {
   font-style: normal;
   cursor: pointer;
 }
+.tab {
+  display: flex;
+  flex-direction: row;
+  margin-right: 234px;
+  margin-top: 36px;
+  width: fit-content;
+}
