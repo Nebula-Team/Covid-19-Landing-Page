@@ -19,9 +19,6 @@ body {
   justify-content: space-between;
 }
 header img {
-  position: absolute;
-  top: 20px;
-  left: 100px;
   width: 190px;
   height: 65px;
 }
