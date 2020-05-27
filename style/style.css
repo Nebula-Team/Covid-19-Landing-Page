@@ -45,15 +45,6 @@ header a:hover {
   color: #fa5652;
   cursor: pointer;
 }
-header nav {
-  margin: 0;
-  display: inline-block;
-  width: 600px;
-  height: 20px;
-  position: absolute;
-  right: 140px;
-  top: 40px;
-}
 header .bottom_A {
   background-color: transparent;
   border-top-left-radius: 28px;
