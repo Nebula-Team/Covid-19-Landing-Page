@@ -54,9 +54,9 @@ header .button_A {
   border-bottom-left-radius: 28px;
   border: 2px solid #fa5652;
   color: #fa5652;
-  height: 45px;
+  width: 154px;
+  height: 55px;
   line-height: 40px;
-  width: 130px;
   text-decoration: none;
   text-align: center;
   font-family: Gelion;
