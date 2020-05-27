@@ -37,6 +37,7 @@ header img {
 }
 header a {
   text-decoration: none;
+  font-family: Medium;
   font-size: 18px;
   color: #035755;
 }
