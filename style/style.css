@@ -25,6 +25,14 @@ header img {
   height: 65px;
   cursor: pointer;
 }
+.top-nav {
+  margin-right: 40px;
+  margin-top: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 435px;
+  height: fit-content;
   list-style-type: none;
   width: 500px;
 }
