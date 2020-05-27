@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'Bold';
+  src: url(/asset/font/Gelion-Bold.ttf);
+}
+@font-face {
+  font-family: 'Medium';
+  src: url(/asset/font/Gelion-Medium.ttf);
+}
+@font-face {
+  font-family: 'Regular';
+  src: url(/asset/font/Gelion-Regular.ttf);
+}
+body {
+  margin: 0;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+header img {
+  margin-top: 31px;
+  margin-left: 238px;
+  width: 190px;
+  height: 65px;
+  cursor: pointer;
+}
+.top-nav {
+  margin-right: 40px;
+  margin-top: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 435px;
+  height: fit-content;
+  list-style-type: none;
+}
+header a {
+  text-decoration: none;
+  font-family: Medium;
+  font-size: 18px;
+  color: #035755;
+}
+header a:hover {
+  color: #fa5652;
+  cursor: pointer;
+}
+
+header .button_A {
+  background-color: transparent;
+  border-top-left-radius: 28px;
+  border-top-right-radius: 28px;
+  border-bottom-right-radius: 28px;
+  border-bottom-left-radius: 28px;
+  border: 2px solid #fa5652;
+  color: #fa5652;
+  width: 154px;
+  height: 55px;
+  line-height: 40px;
+  text-decoration: none;
+  text-align: center;
+  font-family: Medium;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  cursor: pointer;
+}
+.tab {
+  display: flex;
+  flex-direction: row;
+  margin-right: 234px;
+  margin-top: 36px;
+  width: fit-content;
+}
